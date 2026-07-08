@@ -148,3 +148,5 @@ The MSP Ticket Triage AI PoC is included as a public code sample to demonstrate 
 
 - LinkedIn: https://www.linkedin.com/in/christianochoa/
 - GitHub: https://github.com/HiramPeru
+
+- [MSP Ticket Triage AI PoC](https://github.com/HiramPeru/msp-ticket-triage-ai-poc) — deterministic TypeScript triage engine for MSP tickets with CLI and public Vite web demo: https://msp-ticket-triage-ai-poc-rho.vercel.app
