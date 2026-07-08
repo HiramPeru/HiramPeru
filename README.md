@@ -15,7 +15,23 @@ I work at the intersection of business requirements, technical architecture and 
 - Solution architecture for B2B clients
 - Data, analytics and operational reporting for decision-making
 
-## Selected Workstreams
+## Selected Portfolio
+
+### MSP Ticket Triage AI PoC
+
+Public TypeScript proof of concept for MSP ticket triage, priority scoring, SLA risk estimation and next-action recommendations.
+
+**Relevant areas:** TypeScript, MSP operations, ticket classification, incident management, SLA risk, deterministic automation and AI-ready service workflows.
+
+Repository: https://github.com/HiramPeru/msp-ticket-triage-ai-poc
+
+### Virtual Business Tickets
+
+MSP-oriented ticketing and service operations system for incident tracking, role-based workflows and operational support governance.
+
+**Relevant areas:** Next.js, TypeScript, Supabase, PostgreSQL, authentication, role-based access, ticket lifecycle, service operations and AI-assisted triage roadmap.
+
+Repository: https://github.com/HiramPeru/virtual-business-tickets
 
 ### Menu To Go
 
@@ -23,11 +39,15 @@ Operational platform for menu ordering, kitchen dispatch, customer balances, fin
 
 **Relevant areas:** React, Vite, Supabase, PostgreSQL, operational workflows, finance ledger, CRM, dashboards, kitchen operations, automation and SaaS operations.
 
+Repository: https://github.com/HiramPeru/menu-togo-showcase
+
 ### Sterling Arsenal
 
 Sanitized technical continuity and modernization showcase for a legacy business platform.
 
 **Relevant areas:** legacy PHP/MySQL review, Docker staging, database inspection, technical documentation, demo readiness, security hardening, PII masking and modernization planning.
+
+Repository: https://github.com/HiramPeru/sterling-arsenal-showcase
 
 ### Career OS
 
@@ -40,12 +60,6 @@ Cloud-first, AI-native career intelligence platform for evidence-based job appli
 Agent memory, governance and technical context framework for structured AI-assisted software delivery.
 
 **Relevant areas:** Python, markdown-based knowledge systems, repository memory, validation, deterministic workflows, agent governance and graph-based context modeling.
-
-### Virtual Business Tickets
-
-MSP ticketing and incident workflow showcase for service operations.
-
-**Relevant areas:** incident management, SLA workflows, prioritization, escalation, support documentation and AI-assisted triage.
 
 ## AI, Agents and Automation Tooling
 
@@ -127,6 +141,8 @@ MSP ticketing and incident workflow showcase for service operations.
 My GitHub profile is structured as a technical portfolio for solution consulting, technical account management, AI automation, MSP operations and B2B technology delivery.
 
 Some repositories are public showcases or sanitized documentation versions of private work. They are designed to demonstrate architecture, technical reasoning, delivery process, automation patterns and business value without exposing client data, production code, credentials or confidential assets.
+
+The MSP Ticket Triage AI PoC is included as a public code sample to demonstrate original hands-on TypeScript implementation aligned with MSP service operations and AI-ready automation workflows.
 
 ## Links
 
