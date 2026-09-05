@@ -1,152 +1,28 @@
 # Christian Ochoa
 
-Technical-commercial leader focused on AI automation, MSP operations, cloud infrastructure, cybersecurity, data workflows and B2B technology consulting.
+**Cloud / MSP Infrastructure & Cybersecurity · AI Automation & Agentic Systems · B2B Solution Architecture**
 
-I work at the intersection of business requirements, technical architecture and practical delivery. My focus is translating operational problems into implementable systems with clear scope, documentation, automation potential and measurable business value.
+I translate business and service-operations requirements into scoped technical solutions: cloud infrastructure, security and continuity, operational software, and practical automation. My work connects architecture with technical-commercial delivery and clear documentation.
 
-## Professional Focus
+## Selected Work
 
-- AI-enabled business automation
-- Agentic workflows and coding harness evaluation
-- MSP operations, ticketing, SLAs and support processes
-- Cloud infrastructure, modernization and managed services
-- Cybersecurity, resilience, backup and operational continuity
-- Technical account management and consultative technology sales
-- Solution architecture for B2B clients
-- Data, analytics and operational reporting for decision-making
+| Project | Focus and public evidence |
+| --- | --- |
+| [MSP Ticket Triage AI PoC](https://github.com/HiramPeru/msp-ticket-triage-ai-poc) | TypeScript triage engine shared by a CLI and React demo: classification, priority, SLA risk and next actions. Deterministic rules; no live LLM integration. [Live demo](https://msp-ticket-triage-ai-poc-rho.vercel.app) |
+| [Virtual Business Tickets](https://github.com/HiramPeru/virtual-business-tickets) | Next.js service desk implementation with ticket workflows, role-based access, event history and CSV export. Public code and architecture documentation. |
+| [Menu To Go](https://github.com/HiramPeru/menu-togo-showcase) | Sanitized architecture and workflow showcase for meal ordering, kitchen dispatch and finance operations. Private implementation excluded. |
+| [Sterling Arsenal](https://github.com/HiramPeru/sterling-arsenal-showcase) | Sanitized legacy PHP/database review, technical continuity and modernization planning. Documentation-led showcase; modernization is a proposed path. |
 
-## Selected Portfolio
+## Core Expertise
 
-### MSP Ticket Triage AI PoC
+- **Cloud / MSP Infrastructure & Cybersecurity:** managed services, Microsoft 365, networking, backup, disaster recovery and operational continuity.
+- **AI Automation & Agentic Systems:** service workflow modeling, deterministic automation, agent-assisted development and evidence-based integration planning.
+- **B2B Solution Architecture:** requirements discovery, delivery scoping, technical account management and consultative technology sales.
+- **Engineering:** TypeScript, React / Next.js, PostgreSQL, Git and Docker, applied to operational systems and documented delivery.
 
-Public TypeScript proof of concept for MSP ticket triage, priority scoring, SLA risk estimation and next-action recommendations.
+Public showcases distinguish implementation evidence from roadmap ideas and exclude confidential client assets. They do not imply independently verified production outcomes.
 
-**Relevant areas:** TypeScript, MSP operations, ticket classification, incident management, SLA risk, deterministic automation and AI-ready service workflows.
+## Contact
 
-Repository: https://github.com/HiramPeru/msp-ticket-triage-ai-poc
-
-### Virtual Business Tickets
-
-MSP-oriented ticketing and service operations system for incident tracking, role-based workflows and operational support governance.
-
-**Relevant areas:** Next.js, TypeScript, Supabase, PostgreSQL, authentication, role-based access, ticket lifecycle, service operations and AI-assisted triage roadmap.
-
-Repository: https://github.com/HiramPeru/virtual-business-tickets
-
-### Menu To Go
-
-Operational platform for menu ordering, kitchen dispatch, customer balances, finance workflows and administrative control.
-
-**Relevant areas:** React, Vite, Supabase, PostgreSQL, operational workflows, finance ledger, CRM, dashboards, kitchen operations, automation and SaaS operations.
-
-Repository: https://github.com/HiramPeru/menu-togo-showcase
-
-### Sterling Arsenal
-
-Sanitized technical continuity and modernization showcase for a legacy business platform.
-
-**Relevant areas:** legacy PHP/MySQL review, Docker staging, database inspection, technical documentation, demo readiness, security hardening, PII masking and modernization planning.
-
-Repository: https://github.com/HiramPeru/sterling-arsenal-showcase
-
-### Career OS
-
-Cloud-first, AI-native career intelligence platform for evidence-based job applications, claims, outputs and structured career workflows.
-
-**Relevant areas:** Next.js, TypeScript, Drizzle, Supabase, PostgreSQL, evidence engine, vertical slices, testing, documentation and agent-assisted development.
-
-### AMTA Core
-
-Agent memory, governance and technical context framework for structured AI-assisted software delivery.
-
-**Relevant areas:** Python, markdown-based knowledge systems, repository memory, validation, deterministic workflows, agent governance and graph-based context modeling.
-
-## AI, Agents and Automation Tooling
-
-### LLMs and AI Assistants
-
-- ChatGPT
-- Claude
-- Perplexity
-- DeepSeek
-- Z.ai
-- Gemini / Google AI Studio
-- Local models, including Gemma-based experimentation
-
-### Agentic Coding and Development Harnesses
-
-- Codex / Codex CLI
-- OpenCode
-- Claude Code
-- Antigravity
-- Paperclip AI
-- Aider / OpenHands evaluation patterns
-- AI-assisted repository workflows
-- Agent roles: orchestrator, executor and auditor
-
-### Model Routing, Providers and Local AI
-
-- OpenRouter
-- Ollama
-- OpenWebUI
-- Local provider experimentation
-- MCP-based tool integration
-- Notion MCP server evaluation
-- Dify evaluation and workflow design
-
-## Technical Stack
-
-### Application Development
-
-- TypeScript / JavaScript
-- React / Next.js
-- Vite
-- Tailwind CSS
-- shadcn/ui
-- Node.js
-- Python
-
-### Backend, Data and Automation
-
-- Supabase
-- PostgreSQL
-- Drizzle ORM
-- Supabase RPC functions
-- Supabase Edge Functions
-- REST API workflows
-- Operational reporting and dashboarding
-
-### Infrastructure and Delivery
-
-- Git / GitHub / GitHub CLI
-- GitHub Actions
-- Docker
-- Dev Containers
-- Hostinger
-- Vercel
-- PM2
-- Linux and Windows environments
-
-### Business Technology
-
-- Microsoft 365
-- Google Workspace
-- Networking infrastructure
-- Firewalls and cybersecurity operations
-- Backup, disaster recovery and managed services
-- Cloud, SaaS, IaaS and BaaS solution positioning
-
-## Professional Positioning
-
-My GitHub profile is structured as a technical portfolio for solution consulting, technical account management, AI automation, MSP operations and B2B technology delivery.
-
-Some repositories are public showcases or sanitized documentation versions of private work. They are designed to demonstrate architecture, technical reasoning, delivery process, automation patterns and business value without exposing client data, production code, credentials or confidential assets.
-
-The MSP Ticket Triage AI PoC is included as a public code sample to demonstrate original hands-on TypeScript implementation aligned with MSP service operations and AI-ready automation workflows.
-
-## Links
-
-- LinkedIn: https://www.linkedin.com/in/christianochoa/
-- GitHub: https://github.com/HiramPeru
-
-- [MSP Ticket Triage AI PoC](https://github.com/HiramPeru/msp-ticket-triage-ai-poc) — deterministic TypeScript triage engine for MSP tickets with CLI and public Vite web demo: https://msp-ticket-triage-ai-poc-rho.vercel.app
+- [LinkedIn](https://www.linkedin.com/in/christianochoa/)
+- [GitHub](https://github.com/HiramPeru)
