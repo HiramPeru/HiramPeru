@@ -12,6 +12,8 @@ I translate business and service-operations requirements into scoped technical s
 | [Virtual Business Tickets](https://github.com/HiramPeru/virtual-business-tickets) | Next.js service desk implementation with ticket workflows, role-based access, event history and CSV export. Public code and architecture documentation. |
 | [Menu To Go](https://github.com/HiramPeru/menu-togo-showcase) | Sanitized architecture and workflow showcase for meal ordering, kitchen dispatch and finance operations. Private implementation excluded. |
 | [Sterling Arsenal](https://github.com/HiramPeru/sterling-arsenal-showcase) | Sanitized legacy PHP/database review, technical continuity and modernization planning. Documentation-led showcase; modernization is a proposed path. |
+| [Knowledge vNext](https://github.com/HiramPeru/knowledge-vnext-showcase) | Sanitized methodology showcase: gated architecture design with independent adversarial audit, falsification-driven proof of concept, and acceptance-test governance for a multi-domain AI agent knowledge system. |
+| [AMTA Core](https://github.com/HiramPeru/amta-core) | Reusable governance engine for Markdown-based project memory — CLI, validator, deterministic artifact generation, JSON Schema export. 61 tests, 91% coverage, CI green. |
 
 ## Core Expertise
 
